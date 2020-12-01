@@ -15,4 +15,5 @@ while (nombre < 100) {
     else {
         para = document.getElementById('paragraphe1').innerHTML += ", le capitaine est vieux";
     }
+    
 }
